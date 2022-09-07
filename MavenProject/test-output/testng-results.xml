@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-07T14:04:32 IST" name="Suite" finished-at="2022-09-07T14:06:07 IST" duration-ms="94678">
+    <groups>
+    </groups>
+    <test started-at="2022-09-07T14:04:32 IST" name="Test" finished-at="2022-09-07T14:06:07 IST" duration-ms="94678">
+      <class name="com.qa.testLayer.SellShareScenario">
+        <test-method is-config="true" signature="start()[pri:0, instance:com.qa.testLayer.SellShareScenario@6ae5aa72]" started-at="2022-09-07T14:04:32 IST" name="start" finished-at="2022-09-07T14:04:32 IST" duration-ms="230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.qa.testLayer.SellShareScenario@6ae5aa72]" started-at="2022-09-07T14:04:33 IST" name="setUp" finished-at="2022-09-07T14:04:40 IST" duration-ms="6437" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifySellShareScenario(java.lang.String,java.lang.String)[pri:0, instance:com.qa.testLayer.SellShareScenario@6ae5aa72]" started-at="2022-09-07T14:04:40 IST" name="VerifySellShareScenario" data-provider="Data" finished-at="2022-09-07T14:05:21 IST" duration-ms="41162" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[wipro]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySellShareScenario -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testLayer.SellShareScenario@6ae5aa72]" started-at="2022-09-07T14:05:21 IST" name="tearDown" finished-at="2022-09-07T14:05:21 IST" duration-ms="367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.qa.testLayer.SellShareScenario@6ae5aa72]" started-at="2022-09-07T14:05:21 IST" name="setUp" finished-at="2022-09-07T14:05:25 IST" duration-ms="4156" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifySellShareScenario(java.lang.String,java.lang.String)[pri:0, instance:com.qa.testLayer.SellShareScenario@6ae5aa72]" started-at="2022-09-07T14:05:25 IST" name="VerifySellShareScenario" data-provider="Data" finished-at="2022-09-07T14:06:06 IST" duration-ms="41034" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[axis]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySellShareScenario -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testLayer.SellShareScenario@6ae5aa72]" started-at="2022-09-07T14:06:06 IST" name="tearDown" finished-at="2022-09-07T14:06:07 IST" duration-ms="325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="stop()[pri:0, instance:com.qa.testLayer.SellShareScenario@6ae5aa72]" started-at="2022-09-07T14:06:07 IST" name="stop" finished-at="2022-09-07T14:06:07 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stop -->
+      </class> <!-- com.qa.testLayer.SellShareScenario -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
